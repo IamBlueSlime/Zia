@@ -1,0 +1,6 @@
+[submodule "vendor/openZia"]
+	path = vendor/openZia
+	url = https://github.com/MatthieuMv/openZia.git
+[submodule "vendor/toml11"]
+	path = vendor/toml11
+	url = https://github.com/ToruNiina/toml11

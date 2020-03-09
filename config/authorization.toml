@@ -1,0 +1,6 @@
+[[rules]]
+username = "hello"
+password = "world"
+resources = [
+  "/protected.html"
+]
